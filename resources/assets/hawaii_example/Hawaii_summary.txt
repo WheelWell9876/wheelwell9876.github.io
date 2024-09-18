@@ -1,0 +1,63 @@
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+|    | Datasets Present                                           | Datasets Not Present                                              |   Problematic Datasets |
++====+============================================================+===================================================================+========================+
+|  0 | Aquifers_Cleaned_weighted_cleaned.geojson                  | Agricultural_Minerals_Operations_Cleaned_weighted_cleaned.geojson |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+|  1 | Aviation_Facilities_Cleaned_weighted_cleaned.geojson       | CBP_2021_Cleaned_weighted_cleaned.geojson                         |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+|  2 | Biodiesel_Plants_Cleaned_weighted_cleaned.geojson          | Construction_Minerals_Operations_Cleaned_weighted_cleaned.geojson |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+|  3 | Bridges_Cleaned_weighted_cleaned.geojson                   | Ethanol_Plants_Cleaned_weighted_cleaned.geojson                   |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+|  4 | Cellular_Towers_Cleaned_weighted_cleaned.geojson           | Ferrous_Metal_Mines_Cleaned_weighted_cleaned.geojson              |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+|  5 | Colleges_and_Universities_Cleaned_weighted_cleaned.geojson | Ferrous_Metal_Processing_Plants_Cleaned_weighted_cleaned.geojson  |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+|  6 | Courthouses_Cleaned_weighted_cleaned.geojson               | Fortune_500_HQ_Cleaned_weighted_cleaned.geojson                   |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+|  7 | Dams_Cleaned_weighted_cleaned.geojson                      | Gas_Compressor_Stations_Cleaned_weighted_cleaned.geojson          |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+|  8 | Dialysis_Centers_Cleaned_weighted_cleaned.geojson          | Gold_Repositories_Cleaned_weighted_cleaned.geojson                |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+|  9 | EMS_Stations_Cleaned_weighted_cleaned.geojson              | Hydrocarbon_Pipelines_Cleaned_weighted_cleaned.geojson            |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 10 | FDIC_Banks_Cleaned_weighted_cleaned.geojson                | Industrial_Mineral_Operations_Cleaned_weighted_cleaned.geojson    |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 11 | Hospitals_Weighted.geojson                                 | LNG_Storage_Facilities_Cleaned_weighted_cleaned.geojson           |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 12 | Local_Law_Enforcement_Cleaned_weighted_cleaned.geojson     | LNG_Terminals_Cleaned_weighted_cleaned.geojson                    |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 13 | Manufacturing_Facilities_Cleaned_weighted_cleaned.geojson  | Mines_and_Mineral_Resources_Cleaned_weighted_cleaned.geojson      |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 14 | Microwave_Service_Towers_Cleaned_weighted_cleaned.geojson  | NGL_Pipelines_Cleaned_weighted_cleaned.geojson                    |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 15 | Military_Installations_Cleaned_weighted_cleaned.geojson    | NG_Processing_Plants_Cleaned_weighted_cleaned.geojson             |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 16 | Petroleum_Terminals_Cleaned_weighted_cleaned.geojson       | Nonferrous_Metal_Mines_Cleaned_weighted_cleaned.geojson           |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 17 | Pharmacies_Weighted_cleaned.geojson                        | Oil_Refineries_Cleaned_weighted_cleaned.geojson                   |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 18 | Power_Transmission_Lines_Cleaned_weighted_cleaned.geojson  | Peak_Shaving_Facilities_Cleaned_weighted_cleaned.geojson          |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 19 | Principal_Ports_Cleaned_weighted_cleaned.geojson           | Primary_Roads_Cleaned_weighted_cleaned.geojson                    |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 20 | Private_Schools_Cleaned_weighted_cleaned.geojson           | Rail_Lines_Cleaned_weighted_cleaned.geojson                       |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 21 | Public_Health_Departments_Cleaned_weighted_cleaned.geojson | Refrigerated_Warehouses_Cleaned_weighted_cleaned.geojson          |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 22 | Urgent_Care_Facilities_Cleaned_weighted_cleaned.geojson    | Sand_and_Gravel_Operations_Cleaned_weighted_cleaned.geojson       |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 23 | VA_Medical_Facilities_Cleaned_weighted_cleaned.geojson     | Solid_Waste_Facilities_Cleaned_weighted_cleaned.geojson           |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 24 | nan                                                        | Spaceports_Cleaned_weighted_cleaned.geojson                       |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 25 | nan                                                        | State_Capitol_Buildings_Cleaned_weighted_cleaned.geojson          |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 26 | nan                                                        | State_Government_Buildings_Cleaned_weighted_cleaned.geojson       |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 27 | nan                                                        | USACE_Offices_Cleaned_weighted_cleaned.geojson                    |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 28 | nan                                                        | USACE_Reservoirs_Cleaned_weighted_cleaned.geojson                 |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
+| 29 | nan                                                        | Uranium_and_Vanadium_Deposits_Cleaned_weighted_cleaned.geojson    |                    nan |
++----+------------------------------------------------------------+-------------------------------------------------------------------+------------------------+
